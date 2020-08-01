@@ -1,3 +1,6 @@
 # Weekly Challenge 1
 Horiseon Refactor
-- Updated the code.
+- Edited code to work properly.
+- Changed file structure.
+- Uploaded changes to GitHub.
+- Page is live.
