@@ -26,4 +26,4 @@ THEN I find a concise, descriptive title</p>
 <a href="https://github.com/igk1024/01-Challenge-Horiseon" target="_blank">GitHub.com/igk1024/01-Challenge-Horiseon</a>
 
 <h2>Screenshot</h2>
-<img src="/assets/images/horiseon-full-webpage-screenshot.jpg">
+<img src="/assets/images/horiseon-full-webpage-screenshot.png">
